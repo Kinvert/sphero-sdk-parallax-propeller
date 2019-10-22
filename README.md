@@ -21,3 +21,6 @@ https://sdk.sphero.com/docs/general_documentation/sensors/
 
 ## Raspberry Pi Python Examples
 - [Keyboard Control](https://sdk.sphero.com/docs/samples_content/raspberry_pi/python/keyboard_control_sample/)
+
+## Block Coding Docs
+- [Block Coding Docs](https://sphero.docsapp.io/docs/get-started/)
